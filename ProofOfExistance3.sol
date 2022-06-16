@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-contract ProofOfExistance {
+contract ProofOfExistance3 {
 
     mapping(bytes32 => bool) proofs;
 
